@@ -1,0 +1,9 @@
+.Mobile-AppBar {
+  /* following property is important coz the app bar does not need to be fixed at the top */
+  position: inherit !important;
+}
+
+.Large-Screen-Drawer > div {
+  width: 200px;
+  overflow-x: hidden;
+}

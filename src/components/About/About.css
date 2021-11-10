@@ -1,0 +1,22 @@
+.About-Container {
+  padding: 10px 20px;
+}
+
+.About-Image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.About-Image img {
+  border-radius: 50%;
+  height: 35%;
+  width: 35%;
+}
+
+.About-Description {
+  margin-top: 25px;
+  font-family: "Roboto", monospace, Arial, Helvetica, sans-serif;
+  font-size: 17px;
+  text-align: justify;
+}

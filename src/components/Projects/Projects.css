@@ -1,0 +1,25 @@
+.Projects-List {
+  text-align: left;
+  padding: 20px;
+  display: grid;
+  column-gap: 2%;
+  grid-template-columns: 32% 32% 32%;
+}
+
+.Project-Item {
+  margin: 15px 0;
+}
+
+@media screen and (max-width: 850px) {
+  .Projects-List {
+    column-gap: 4%;
+    grid-template-columns: 48% 48%;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .Projects-List {
+    column-gap: 0;
+    grid-template-columns: 100%;
+  }
+}

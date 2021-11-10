@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Google Mobile Web Specialist",
+    "imageLocation": "/static/images/certificates/google-mobile-web-specialist.jpg"
+  },
+  {
+    "name": "Udacity Front End Web Developer Nano Degree",
+    "imageLocation": "/static/images/certificates/udacity-frontend-nanodegree.jpg"
+  },
+  {
+    "name": "Google India Challenge Scholarship Badge",
+    "imageLocation": "/static/images/certificates/google-scholarship-india-badge.png"
+  },
+  {
+    "name": "Mongo DB Basics Course from Mongo DB University",
+    "imageLocation": "/static/images/certificates/mongodb.jpg"
+  },
+  {
+    "name": "Freecodecamp javascript algorithms and data sctructures",
+    "imageLocation": "/static/images/certificates/javascript-algorithms-and-data-structures.png"
+  },
+  {
+    "name": "Freecodecamp responsive web design",
+    "imageLocation": "/static/images/certificates/responsive-web-design.png"
+  }
+]

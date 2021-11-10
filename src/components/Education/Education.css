@@ -1,0 +1,37 @@
+.Education-List {
+  padding: 20px;
+}
+
+.Education-Item {
+  margin-bottom: 20px;
+}
+
+.Education-Item-Header {
+  font-size: 17px;
+  font-weight: 300;
+  color: #4d4d4d;
+}
+
+.Education-Item-Header .Education-Item-Degree h3 {
+  margin: 0;
+  color: black;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.Education-Item-Description {
+  margin-top: 30px;
+  text-align: justify;
+}
+
+.Education-Item-Description h3 {
+  font-weight: 400;
+  font-size: 19px;
+  margin: 0;
+}
+
+.Education-Item-Description p {
+  font-weight: 300;
+  font-size: 16px;
+  margin: 10px 0 0;
+}

@@ -1,0 +1,61 @@
+.Contact-Description {
+  padding: 20px;
+}
+
+.Contact-Description .Alert-Message {
+  font-size: 16px;
+  background-color: #9dff90;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 0 auto;
+  width: 70%;
+  min-width: 300px;
+  max-width: 500px;
+}
+
+.Contact-Description .Alert-Message-Hide {
+  display: none;
+}
+
+.Contact-Form {
+  width: 70%;
+  margin: 0 auto;
+  min-width: 300px;
+  max-width: 500px;
+}
+
+.Contact-Form > div {
+  margin: 0;
+  padding: 4px 0;
+}
+
+.Contact-Submit-Form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Contact-Media {
+  margin: 35px 0 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Contact-Media > div {
+  padding: 0 15px;
+}
+
+.Contact-Media > div > a {
+  color: black;
+  transition: 0.25s;
+}
+
+.Contact-Media > div > a:hover {
+  color: #666666;
+}
+
+.Contact-Media > div > a svg {
+  font-size: 30px;
+  font-weight: 300;
+}

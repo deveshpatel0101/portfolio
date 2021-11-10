@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Movie Info",
+    "imageLocation": "/static/images/projects/movie_info.PNG",
+    "stack": "MERN Stack",
+    "demoLink": "/featured_works/movie_info",
+    "sourceLink": "https://github.com/deveshpatel0101/movie_info"
+  },
+  {
+    "name": "Neighborhood Map",
+    "imageLocation": "/static/images/projects/neighborhood_map.PNG",
+    "stack": "ReactJS",
+    "demoLink": "/featured_works/neighborhood_map",
+    "sourceLink": "https://github.com/deveshpatel0101/neighborhood_map"
+  },
+  {
+    "name": "Book Tracking App",
+    "imageLocation": "/static/images/projects/book_tracking_app.PNG",
+    "stack": "ReactJS",
+    "demoLink": "/featured_works/book_tracking_app",
+    "sourceLink": "https://github.com/deveshpatel0101/nd_book_tracking_app"
+  },
+  {
+    "name": "Pixel Art Maker",
+    "imageLocation": "/static/images/projects/pixel_art.png",
+    "stack": "Vanilla JS",
+    "demoLink": "/featured_works/pixel_art",
+    "sourceLink": "https://github.com/deveshpatel0101/nd_pixel_art"
+  },
+  {
+    "name": "Classic Arcade Game",
+    "imageLocation": "/static/images/projects/classic_arcade_game.PNG",
+    "stack": "Vanilla JS",
+    "demoLink": "/featured_works/classic_arcade_game",
+    "sourceLink": "https://github.com/deveshpatel0101/nd_classic_arcade_game"
+  },
+  {
+    "name": "Memory Game",
+    "imageLocation": "/static/images/projects/memory_game.PNG",
+    "stack": "Vanilla JS",
+    "demoLink": "/featured_works/memory_game",
+    "sourceLink": "https://github.com/deveshpatel0101/nd_memory_game"
+  },
+  {
+    "name": "Restaurant Reviews",
+    "imageLocation": "/static/images/projects/restaurant_reviews.PNG",
+    "stack": "Vanilla JS",
+    "demoLink": "/featured_works/restaurant_reviews",
+    "sourceLink": "https://github.com/deveshpatel0101/restaurant_review_app"
+  }
+]

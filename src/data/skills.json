@@ -1,0 +1,88 @@
+[
+  {
+    "type": "Languages",
+    "items": [
+      {
+        "name": "Python",
+        "logoLocation": "/static/images/skills/python.png"
+      },
+      {
+        "name": "JavaScript",
+        "logoLocation": "/static/images/skills/javascript.jpg"
+      },
+      {
+        "name": "GoLang",
+        "logoLocation": "/static/images/skills/golang.jpg"
+      }
+    ]
+  },
+  {
+    "type": "Web Technologies",
+    "items": [
+      {
+        "name": "HTML5",
+        "logoLocation": "/static/images/skills/html5.png"
+      },
+      {
+        "name": "CSS3",
+        "logoLocation": "/static/images/skills/css3.png"
+      },
+      {
+        "name": "Bootstrap",
+        "logoLocation": "/static/images/skills/bootstrap.png"
+      },
+      {
+        "name": "Material UI",
+        "logoLocation": "/static/images/skills/materialui.png"
+      },
+      {
+        "name": "ReactJS",
+        "logoLocation": "/static/images/skills/reactjs.png"
+      },
+      {
+        "name": "NodeJS",
+        "logoLocation": "/static/images/skills/nodejs.png"
+      }
+    ]
+  },
+  {
+    "type": "Databases",
+    "items": [
+      {
+        "name": "MongoDB",
+        "logoLocation": "/static/images/skills/mongodb.png"
+      },
+      {
+        "name": "PostgreSQL",
+        "logoLocation": "/static/images/skills/postgresql.png"
+      }
+    ]
+  },
+  {
+    "type": "Cloud Services",
+    "items": [
+      {
+        "name": "AWS",
+        "logoLocation": "/static/images/skills/aws.png",
+        "services": "Lambda Functions, Step Functions, Glue Jobs, S3 Bucket, Cloud Watch, and DynamoDB"
+      },
+      {
+        "name": "Heroku",
+        "logoLocation": "/static/images/skills/heroku.png"
+      }
+    ]
+  },
+  {
+    "type": "Tools",
+    "items": [
+      {
+        "name": "Git",
+        "logoLocation": "/static/images/skills/git.png"
+      },
+      {
+        "name": "Github",
+        "logoLocation": "/static/images/skills/github.png"
+      }
+    ]
+  }
+]
